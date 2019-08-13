@@ -1,0 +1,9 @@
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\IdentityModels\bin\Release\netcoreapp2.2\IdentityModels.deps.json
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\IdentityModels\bin\Release\netcoreapp2.2\IdentityModels.dll
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\IdentityModels\bin\Release\netcoreapp2.2\IdentityModels.pdb
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\IdentityModels\obj\Release\netcoreapp2.2\IdentityModels.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\IdentityModels\obj\Release\netcoreapp2.2\IdentityModels.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\IdentityModels\obj\Release\netcoreapp2.2\IdentityModels.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\IdentityModels\obj\Release\netcoreapp2.2\IdentityModels.AssemblyInfo.cs
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\IdentityModels\obj\Release\netcoreapp2.2\IdentityModels.dll
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\IdentityModels\obj\Release\netcoreapp2.2\IdentityModels.pdb

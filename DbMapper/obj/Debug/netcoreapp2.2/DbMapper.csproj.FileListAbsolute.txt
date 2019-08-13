@@ -1,0 +1,9 @@
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbMapper\bin\Debug\netcoreapp2.2\DbMapper.deps.json
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbMapper\bin\Debug\netcoreapp2.2\DbMapper.dll
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbMapper\bin\Debug\netcoreapp2.2\DbMapper.pdb
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbMapper\obj\Debug\netcoreapp2.2\DbMapper.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbMapper\obj\Debug\netcoreapp2.2\DbMapper.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbMapper\obj\Debug\netcoreapp2.2\DbMapper.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbMapper\obj\Debug\netcoreapp2.2\DbMapper.AssemblyInfo.cs
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbMapper\obj\Debug\netcoreapp2.2\DbMapper.dll
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbMapper\obj\Debug\netcoreapp2.2\DbMapper.pdb

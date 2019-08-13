@@ -1,0 +1,12 @@
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbEntities\bin\Debug\netcoreapp2.2\DbEntities.deps.json
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbEntities\bin\Debug\netcoreapp2.2\DbEntities.dll
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbEntities\bin\Debug\netcoreapp2.2\DbEntities.pdb
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbEntities\bin\Debug\netcoreapp2.2\DbMapper.dll
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbEntities\bin\Debug\netcoreapp2.2\DbMapper.pdb
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbEntities\obj\Debug\netcoreapp2.2\DbEntities.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbEntities\obj\Debug\netcoreapp2.2\DbEntities.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbEntities\obj\Debug\netcoreapp2.2\DbEntities.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbEntities\obj\Debug\netcoreapp2.2\DbEntities.AssemblyInfo.cs
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbEntities\obj\Debug\netcoreapp2.2\DbEntities.csproj.CopyComplete
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbEntities\obj\Debug\netcoreapp2.2\DbEntities.dll
+C:\Users\dev\Desktop\projects\helpdesk_app\helpdesk_backend\DbEntities\obj\Debug\netcoreapp2.2\DbEntities.pdb
